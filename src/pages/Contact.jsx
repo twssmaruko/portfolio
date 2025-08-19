@@ -5,7 +5,7 @@ const Contact = () => (
   <div className="container">
     <Title level={2}>Contact</Title>
     <Paragraph>
-      Email: yourname@email.com · LinkedIn: /in/yourname · GitHub: /yourname
+      Email: tanmarcogabriel@gmail.com · LinkedIn: /in/tanmarcogabriel · GitHub: /twssmaruko
     </Paragraph>
   </div>
 );
