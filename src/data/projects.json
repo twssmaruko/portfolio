@@ -1,0 +1,20 @@
+[
+  {
+    "id": "nba-draft-analysis",
+    "title": "NBA Draft Top 10 Analysis (1980–2015)",
+    "tags": ["SQL", "Tableau", "EDA"],
+    "summary": "Career trends of top picks with clean visuals and SQL transformations.",
+    "thumbnail": "/images/nba.png",
+    "repo": "https://github.com/yourname/nba-draft-analysis",
+    "report": "https://public.tableau.com/views/yourviz",
+    "tech": ["Python", "Pandas", "SQL", "Tableau"],
+    "hero": "/images/nba-hero.png",
+    "problem": "How do top-10 picks perform over time?",
+    "approach": "Data cleaning in Python, SQL transformations, Tableau dashboards.",
+    "results": "Identified trends in win rates and longevity by pick.",
+    "extras": [
+      "Automated scraping notebook",
+      "Reproducible SQL scripts"
+    ]
+  }
+]
