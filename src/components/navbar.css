@@ -1,0 +1,18 @@
+.nav-row {
+  display: flex;
+  justify-content: center; /* centers them horizontally */
+  align-items: center;    /* aligns them vertically */
+  gap: 0px;              /* spacing between icons */
+}
+
+.nav-container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+  text-align: left;
+  background-color: #112D4E; /* lighter navy */
+  color: #DBE2EF;
+  padding: 1rem;           /* make text visible */
+}
